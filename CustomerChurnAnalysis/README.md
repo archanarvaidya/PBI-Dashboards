@@ -1,5 +1,6 @@
 Customer Churn Dashboard – Power BI
 Overview
+![PBI-Dashboards](https://github.com/archanarvaidya/PBI-Dashboards/blob/main/CustomerChurnAnalysis/CustomerChurnAnalysis-2.pdf)
 
 Customer churn is a critical challenge for businesses. This Power BI dashboard analyzes customer attrition, identifies key churn drivers, and provides actionable insights to improve customer retention strategies.
 Key Insights
