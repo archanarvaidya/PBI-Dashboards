@@ -2,7 +2,7 @@
 
 ## Car Sales Dashboard
 
-![Car Sales Dashboard Preview](https://raw.githubusercontent.com/archanarvaidya/PBI-Dashboards/main/CarSalesDataAnalysis-1.png)
+![Car Sales Dashboard Preview](https://github.com/archanarvaidya/PBI-Dashboards/blob/main/CarSalesAnalysis/CarSalesDataAnalysis-1.png))
 ![Car Sales Dashboard Preview](https://raw.githubusercontent.com/archanarvaidya/PBI-Dashboards/main/CarSalesDataAnalysis-2.png)
 
 ### Project Description
