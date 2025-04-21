@@ -11,19 +11,19 @@ The **Car Sales Dashboard** is designed to provide an interactive and dynamic an
 
 ### Key Features
 
-#### ✅ KPI Insights:
+#### KPI Insights:
 - **Sales Trends**: Monitor YTD and MTD sales performance.
 - **Average Price Analysis**: Evaluate average sales price over time.
 - **YOY Growth**: Track sales growth on a yearly basis.
 - **Total Cars Sold**: Overview of total cars sold during the period.
 
-#### ✅ Data Visualizations:
+#### Data Visualizations:
 - **Line Charts**: Display sales trends over time, broken down by key metrics.
 - **Pie Charts**: Illustrate sales distribution across body styles and colors.
 - **Map Charts**: Geographically visualize sales performance by region.
 - **Tabular Grids**: Detailed breakdown of sales by dealer, region, and car type.
 
-#### ✅ Data Management & Analysis:
+#### Data Management & Analysis:
 - **Data Modeling**: Comprehensive data architecture and model design.
 - **Data Transformation**: Data cleaning, structuring, and preparation for analysis.
 - **Interactive Filters**: Enable users to filter data by region, car model, dealer, transmission type, and more for in-depth analysis.
@@ -44,9 +44,9 @@ The **Car Sales Dashboard** is designed to provide an interactive and dynamic an
 
 ### Next Steps & Enhancements
 
-- **🔹 Predictive Analytics**: Integrate AI/ML models to predict future sales and trends.
-- **🔹 Real-time Data Integration**: Set up connections to live databases for real-time insights.
-- **🔹 Enhanced UX**: Improve user experience by adding more filters, drill-through options, and advanced visuals.
+- **Predictive Analytics**: Integrate AI/ML models to predict future sales and trends.
+- **Real-time Data Integration**: Set up connections to live databases for real-time insights.
+- **Enhanced UX**: Improve user experience by adding more filters, drill-through options, and advanced visuals.
 
 ### Contributing
 
